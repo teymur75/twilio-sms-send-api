@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MrYCrFckbnu7ullnF+cnQhGqtdScQLd4nK4iRocpjJs=",
+  "Source": "SMSApp",
+  "BasePath": "_content/SMSApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
